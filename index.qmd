@@ -1,0 +1,30 @@
+---
+title: "Author"
+image: profile.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:eric.xiang@hli.ubc.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/eric-xiang/
+    - icon: github
+      text: Github
+      href: https://github.com/EricXiang1104/
+---
+
+::: {#hero-heading}
+
+I am a researcher at University of Oslo. 
+
+My work is about Electronic Health Records. My thesis is about ...
+
+I am interested in developing packages. For example, ...
+
+
+:::
+
