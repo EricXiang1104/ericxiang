@@ -25,7 +25,7 @@ My work is about understanding the development of atherosclerosis. I am specific
 interactions in the lipid uptake and development of foam cells. 
 
 Outside the research lab, I am interested in volunteering, hiking and traveling. Feel free to connect with me. 
-mages/openscapes-flywheel-vpub.png){fig-alt="The Openscapes Flywheel: the orange hexagonal logo with 6 parts of the flywheel: Welcome; Create space and place; invest in learning and trust; work openly; leverage common workflows, skills, tools; inspire" fig-align="center"}
+
 
 ## Education
 image: profile.jpg
