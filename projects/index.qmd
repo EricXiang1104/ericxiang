@@ -13,6 +13,8 @@ To complete the project, I am using *in vitro* cell model to assess the cell-cel
 
 I am using cell models to evaluate fasting and non-fasting lipid fractions in promoting fat uptake in cells. The goal of my study is to understand different types of lipids in cardiovascular disease lipid risk prediction.
 
+## **Publication**
+
 1.  Xiang, P., Allahverdian, S., Chan, T., Ortega, C., Francis, G. A., & Sahin, B. (2024). Abstract 3046: Macrophage-smooth muscle cell interactions in atherosclerotic foam cell formation. Arteriosclerosis, Thrombosis, and Vascular Biology, (IF=10.5) 44
 2.  Besler, K., Baht, V., Xiang, P., Allahverdian, S., Ling, E., Chan, T., & Francis, G. A. (2024). Abstract 1056: Overexpression of lysosomal acid lipase. Arteriosclerosis, Thrombosis, and Vascular Biology, (IF: 10.5), 44 (Paul Dudley White International Scholar Award-Canada)
 3.  Allahverdian, S., Xiang, P., Blanchard, V., Sahin, B., Chan, T., & Francis, G. A. (2023). Abstract 14843: Unveiling the phenotype of smooth muscle foam cells in human atherosclerotic lesions: Insights from bulk and single cell RNA sequencing. Circulation (IF:35.5), 148
