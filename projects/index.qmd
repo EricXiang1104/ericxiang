@@ -1,19 +1,32 @@
 ---
-title: "Projects"
+title: "Projects and Publication"
 subtitle: "Here is an overview of the project I have been working on."
 ---
 
 ## Project I
 
-A description of Project 
+My project focuses on understanding how macrophage and smooth muscle cells in blood vessel interact to promote more fat uptake and turn to become foamy cells
 
+To complete the project, I am using *in vitro* cell model to assess the cell-cell interactions.
 
-## Project II
+##  **Project II**
 
-A description of Project 
+I am using cell models to evaluate fasting and non-fasting lipid fractions in promoting fat uptake in cells. The goal of my study is to understand different types of lipids in cardiovascular disease lipid risk prediction.
 
-# Publication
+1.  Xiang, P., Allahverdian, S., Chan, T., Ortega, C., Francis, G. A., & Sahin, B. (2024). Abstract 3046: Macrophage-smooth muscle cell interactions in atherosclerotic foam cell formation. Arteriosclerosis, Thrombosis, and Vascular Biology, (IF=10.5) 44
+2.  Besler, K., Baht, V., Xiang, P., Allahverdian, S., Ling, E., Chan, T., & Francis, G. A. (2024). Abstract 1056: Overexpression of lysosomal acid lipase. Arteriosclerosis, Thrombosis, and Vascular Biology, (IF: 10.5), 44 (Paul Dudley White International Scholar Award-Canada)
+3.  Allahverdian, S., Xiang, P., Blanchard, V., Sahin, B., Chan, T., & Francis, G. A. (2023). Abstract 14843: Unveiling the phenotype of smooth muscle foam cells in human atherosclerotic lesions: Insights from bulk and single cell RNA sequencing. Circulation (IF:35.5), 148
+4.  Xiang, P., Blanchard, V., & Francis, G. A. (2022). Smooth muscle Cell—Macrophage interactions leading to foam cell formation in atherosclerosis: Location, location, location. Frontiers in Physiology (IF:4.8), 13, PMID: 35795646
+5.  Xiang, P., Mohamud, Y., & Luo, H. (2021). SNAP47 interacts with ATG14 to promote VP1 conjugation and CVB3 propagation. Cells (IF:5.1), 10, PMID: 34440910
+6.  Mohamud, Y., Shi, J., Tang, H., Xiang, P., Xue, Y. C., Liu, H., Ng, C. S., & Luo, H. (2020). Coxsackievirus infection induces a non-canonical autophagy independent of the ULK and PI3K complexes. Scientific Reports (IF:4.4), 10, PMID: 33149253
+7.  Xue, Y. C., Ng, C. S., Xiang, P., Liu, H., Zhang, K., Mohamud, Y., & Luo, H. (2020). Dysregulation of RNA-binding proteins in amyotrophic lateral sclerosis. Frontiers in Molecular Neuroscience (IF:5.6), 13, PMID: 32547363
 
-Paper I
+# Presentation
 
-Paper II
+1.  Xiang, P., Allahverdian, S., Chan, T., Ortega, C., & Sahin, B., Francis, G. A. (2024). Macrophage-smooth muscle cell interactions in atherosclerotic foam cell formation. 2024 American Thoracic Society Vascular Discovery Conference: From Genes to Medicine. (Chicago, Poster)
+2.  Xiang, P., Allahverdian, S., Chan, T., Ortega, C., & Sahin, B., Francis, G. A. (2024). Macrophage-smooth muscle cell interactions in atherosclerotic foam cell formation. 2024 HLI Trainee Research Day . (HLI, Poster)
+3.  Xiang, P., Allahverdian, S., Chan, T., Ortega, C., & Sahin, B., Francis, G. A. (2024). Understanding Macrophage-Smooth Muscle Cell Interactions In Foam Cell Development In Atherosclerosis. 2024 Faculty of Medicine's Building the Future-Research Trainee Day and Lecture Series (UBC, Presentation )
+4.  Xiang, P., Allahverdian, S., Chan, T., Ortega, C., & Sahin, B., Francis, G. A. (2023). Understanding Macrophage-Smooth Muscle Cell Interactions In Foam Cell Development In Atherosclerosis. 2023 Canadian Lipid and Vascular Summit (Toronto, Presentation)
+5.  Xiang, P., Ortega, C., Chan, T., and Francis, G. (2022) Evaluation of Fasting and Non-Fasting Lipoproteins in Cellular Cholesterol Uptake. The 7th annual China-Canada Symposium in Atherosclerosis, Thrombosis and Cardiovascular diseases (Virtual , Poster).
+6.  Xiang, P., Ortega, C., Chan, T., and Francis, G. (2022) Evaluation of Fasting and Non-Fasting Lipoproteins in Cellular Cholesterol Uptake 2022 Earl W.Davie Symposium (UBC, Poster).
+7.  Xiang, P., Ortega, C., Chan, T., and Francis, G. (2022) Evaluation of Fasting and Non-Fasting Lipoproteins in Cellular Cholesterol Uptake 2022 Canadian Lipid Vascular Summit (Whistler, Poster).

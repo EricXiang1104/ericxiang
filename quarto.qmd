@@ -1,0 +1,23 @@
+---
+title: "More quarto resources"
+editor: visual
+---
+
+Here are some useful links I will be referencing in today's lesson:
+
+-   <https://andreaczhang.github.io/qtwAcademic/>
+
+-   <https://quarto.org/docs/publishing/github-pages.html>
+
+-   <https://quarto.org/docs/gallery/>
+
+-   <https://quarto.org/docs/websites/>
+
+-   <https://quarto.org/docs/output-formats/html-themes.html>
+
+andreaczhang.github.io
+
+[Quarto Website Templates for Academics](https://andreaczhang.github.io/qtwAcademic/)
+
+Provides three Quarto website templates as an R project, which are commonly used by academics.\
+Templates for personal websites and course/workshop websites are included, as well as a template with minimal content for customization.

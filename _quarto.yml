@@ -7,19 +7,31 @@ website:
   title: "Pinhao (Eric) Xiang"
 
   page-footer:
-    left: "&copy; Copyright 2024, Author"
+    left: "&copy; Copyright 2024, Pinhao (Eric) Xiang"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
-  navbar:
-    left:
+  sidebar:
+    pinned: true
+    align: center
+    style: "docked"
+    collapse-level: 1
+    contents:
       - href: index.qmd
         text: Home
 
       - href: projects/index.qmd
         text: Projects
 
-      - href: about.qmd
-        text: About
+      - href: Volunteer.qmd
+        text: Volunteer
+     
+      - href: quarto.qmd
+        text: quarto
+        
+      - href: casualphoto/index.qmd
+        text: casual photo
+       
+     
 
 format:
   html:

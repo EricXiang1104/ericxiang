@@ -2,50 +2,121 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Author",
+    "title": "Pinhao (Eric) Xiang",
     "section": "",
-    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI am a researcher at University of Oslo.\nMy work is about Electronic Health Records. My thesis is about …\nI am interested in developing packages. For example, …"
+    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI am a graduate student at the University of British Columbia in the Department of Experimental Medicine.\nMy work is about understanding the development of atherosclerosis. I am specifically interested in understanding macrophage smooth muscle cell interactions in the lipid uptake and development of foam cells.\nOutside the research lab, I am interested in volunteering, hiking and traveling. Feel free to connect with me. mages/openscapes-flywheel-vpub.png){fig-alt=“The Openscapes Flywheel: the orange hexagonal logo with 6 parts of the flywheel: Welcome; Create space and place; invest in learning and trust; work openly; leverage common workflows, skills, tools; inspire” fig-align=“center”}\n\n\nUniversity of British Columbia | Vancouver,British Columbia Ph.D Experimental Medicine | May 2021-November 2026\nUniversity of British Columbia | Vancouver,British Columbia Master of Management | June 2020-April 2021\nUniversity of British Columbia | Vancouver,British Columbia B.Sc Biochemistry | Sept 2015-April 2020",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "Projects",
+    "title": "Projects and Publication",
     "section": "",
-    "text": "A description of Project"
+    "text": "My project focuses on understanding how macrophage and smooth muscle cells in blood vessel interact to promote more fat uptake and turn to become foamy cells\nTo complete the project, I am using in vitro cell model to assess the cell-cell interactions.",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "projects/index.html#project-i",
     "href": "projects/index.html#project-i",
-    "title": "Projects",
+    "title": "Projects and Publication",
     "section": "",
-    "text": "A description of Project"
+    "text": "My project focuses on understanding how macrophage and smooth muscle cells in blood vessel interact to promote more fat uptake and turn to become foamy cells\nTo complete the project, I am using in vitro cell model to assess the cell-cell interactions.",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "projects/index.html#project-ii",
     "href": "projects/index.html#project-ii",
-    "title": "Projects",
+    "title": "Projects and Publication",
     "section": "Project II",
-    "text": "Project II\nA description of Project"
+    "text": "Project II\nI am using cell models to evaluate fasting and non-fasting lipid fractions in promoting fat uptake in cells. The goal of my study is to understand different types of lipids in cardiovascular disease lipid risk prediction.\n\nXiang, P., Allahverdian, S., Chan, T., Ortega, C., Francis, G. A., & Sahin, B. (2024). Abstract 3046: Macrophage-smooth muscle cell interactions in atherosclerotic foam cell formation. Arteriosclerosis, Thrombosis, and Vascular Biology, (IF=10.5) 44\nBesler, K., Baht, V., Xiang, P., Allahverdian, S., Ling, E., Chan, T., & Francis, G. A. (2024). Abstract 1056: Overexpression of lysosomal acid lipase. Arteriosclerosis, Thrombosis, and Vascular Biology, (IF: 10.5), 44 (Paul Dudley White International Scholar Award-Canada)\nAllahverdian, S., Xiang, P., Blanchard, V., Sahin, B., Chan, T., & Francis, G. A. (2023). Abstract 14843: Unveiling the phenotype of smooth muscle foam cells in human atherosclerotic lesions: Insights from bulk and single cell RNA sequencing. Circulation (IF:35.5), 148\nXiang, P., Blanchard, V., & Francis, G. A. (2022). Smooth muscle Cell—Macrophage interactions leading to foam cell formation in atherosclerosis: Location, location, location. Frontiers in Physiology (IF:4.8), 13, PMID: 35795646\nXiang, P., Mohamud, Y., & Luo, H. (2021). SNAP47 interacts with ATG14 to promote VP1 conjugation and CVB3 propagation. Cells (IF:5.1), 10, PMID: 34440910\nMohamud, Y., Shi, J., Tang, H., Xiang, P., Xue, Y. C., Liu, H., Ng, C. S., & Luo, H. (2020). Coxsackievirus infection induces a non-canonical autophagy independent of the ULK and PI3K complexes. Scientific Reports (IF:4.4), 10, PMID: 33149253\nXue, Y. C., Ng, C. S., Xiang, P., Liu, H., Zhang, K., Mohamud, Y., & Luo, H. (2020). Dysregulation of RNA-binding proteins in amyotrophic lateral sclerosis. Frontiers in Molecular Neuroscience (IF:5.6), 13, PMID: 32547363",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Author",
+    "title": "Finley Malloc",
     "section": "",
-    "text": "Template for about page\n\n\n\nIt is possible to use different templates for the About page. Check this link to find out more."
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Author",
+    "title": "Finley Malloc",
     "section": "Education",
-    "text": "Education\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\nUniversity of Oslo | Oslo, Norway\nMSc in Statistics | June 2018"
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Author",
+    "title": "Finley Malloc",
     "section": "Experience",
-    "text": "Experience\nI have developed X R packages, published Y papers."
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Pinhao (Eric) Xiang",
+    "section": "",
+    "text": "University of British Columbia | Vancouver,British Columbia Ph.D Experimental Medicine | May 2021-November 2026\nUniversity of British Columbia | Vancouver,British Columbia Master of Management | June 2020-April 2021\nUniversity of British Columbia | Vancouver,British Columbia B.Sc Biochemistry | Sept 2015-April 2020",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Pinhao (Eric) Xiang",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "Volunteer.html",
+    "href": "Volunteer.html",
+    "title": "Volunteer and Extracurrcular activities",
+    "section": "",
+    "text": "1.HLI High School Student Outreach, 2024 November\n• Showed 11 high school students, without prior knowledge, how to perform tissue culture.\n• Shared graduate school experiences with the students.\n2.UBC Undergraduate Research Student Mentor, 2024 September-Present\n• Taught an undergraduate student to conduct a literature review on fasting and nonfasting lipid fractions in cardiovascular risk prediction.\n• Supported the student to draft an abstract and presentation for the UBC Multidisciplinary Undergraduate Research Conference (MURC).\n3. Science to Business Vancouver to Victoria Chapter, 2024 January-Present\n• Organized the Introduction to Start Up in BC event with 50 attendees and 90% survey satisfaction rate. • Responsible for obtaining $300 Graduate Student Society funding to support the event.\n4. HLI Professional development and Scholarship chair, 2023 September-current\n• Collaborated with HirePhD to invite four speakers to HLI to share local job market opportunities. The event had 40 trainees attend who engaged with the speakers.\n• Organized Lunch and Learn sessions to facilitate trainee interactions with Friday Seminar speakers. The events happened 3 times with ~15 trainees attending each session.\n5. HLI Research Day, Conference Organizing team member 2022 May-2024 August\n• Co-chaired the 2024 HLI Research Day for which I helped schedule the program. • Organized the Knowledge Translation Video Competition (10 trainees participated).\n• 40 students had the opportunity to present their research projects to 125 attendees.\n6. Co-Chair of the HLI Mentorship Program, HLI 2021 September- 2023 September:\n• Recruited and led a group of committees to match junior students with senior graduate students.\n• Organized and hosted two annual CareerSeminarsr to support the trainees’ career goals. Each event had ~30 participants with a 90% rating from the survey.\n• Raised $650 to support mentorship networking and career exploration events.\n• Recruited and trained a new chair to continue the mentorship program.\n\n7. UBC Graduate Student Ambassador, 2022 September-Present\n• Connected with prospective newly admitted UBC students through the UBC welcoming webinar with 100 participants in each session. • Hosted the “Living in Vancouver” webinar to help students adapt to student living in the city. • Responded to graduate student questions in the Student Community Forum.",
+    "crumbs": [
+      "Volunteer"
+    ]
+  },
+  {
+    "objectID": "quarto.html",
+    "href": "quarto.html",
+    "title": "More quarto resources",
+    "section": "",
+    "text": "Here are some useful links I will be referencing in today’s lesson:\n\nhttps://andreaczhang.github.io/qtwAcademic/\nhttps://quarto.org/docs/publishing/github-pages.html\nhttps://quarto.org/docs/gallery/\nhttps://quarto.org/docs/websites/\nhttps://quarto.org/docs/output-formats/html-themes.html\n\nandreaczhang.github.io\nQuarto Website Templates for Academics\nProvides three Quarto website templates as an R project, which are commonly used by academics.\nTemplates for personal websites and course/workshop websites are included, as well as a template with minimal content for customization.",
+    "crumbs": [
+      "quarto"
+    ]
+  },
+  {
+    "objectID": "casualphoto/index.html",
+    "href": "casualphoto/index.html",
+    "title": "casual photo",
+    "section": "",
+    "text": "[![Elephant](image1.png)](https://en.wikipedia.org/wiki/Elephant)\n\nNot sure why photos don't show \n\nMaybe try incorporating other features",
+    "crumbs": [
+      "casual photo"
+    ]
   }
 ]
