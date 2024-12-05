@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Pinhao (Eric) Xiang",
     "section": "",
-    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI am a graduate student at the University of British Columbia in the Department of Experimental Medicine.\nMy work is about understanding the development of atherosclerosis. I am specifically interested in understanding macrophage smooth muscle cell interactions in the lipid uptake and development of foam cells.\nOutside the research lab, I am interested in volunteering, hiking and traveling. Feel free to connect with me. mages/openscapes-flywheel-vpub.png){fig-alt=“The Openscapes Flywheel: the orange hexagonal logo with 6 parts of the flywheel: Welcome; Create space and place; invest in learning and trust; work openly; leverage common workflows, skills, tools; inspire” fig-align=“center”}\n\n\nUniversity of British Columbia | Vancouver,British Columbia Ph.D Experimental Medicine | May 2021-November 2026\nUniversity of British Columbia | Vancouver,British Columbia Master of Management | June 2020-April 2021\nUniversity of British Columbia | Vancouver,British Columbia B.Sc Biochemistry | Sept 2015-April 2020",
+    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI am a graduate student at the University of British Columbia in the Department of Experimental Medicine.\nMy work is about understanding the development of atherosclerosis. I am specifically interested in understanding macrophage smooth muscle cell interactions in the lipid uptake and development of foam cells.\nOutside the research lab, I am interested in volunteering, hiking and traveling. Feel free to connect with me. mages/openscapes-flywheel-vpub.png){fig-alt=“The Openscapes Flywheel: the orange hexagonal logo with 6 parts of the flywheel: Welcome; Create space and place; invest in learning and trust; work openly; leverage common workflows, skills, tools; inspire” fig-align=“center”}\n\n\nimage: profile.jpg\nUniversity of British Columbia | Vancouver,British Columbia Ph.D Experimental Medicine | May 2021-November 2026\nUniversity of British Columbia | Vancouver,British Columbia Master of Management | June 2020-April 2021\nUniversity of British Columbia | Vancouver,British Columbia B.Sc Biochemistry | Sept 2015-April 2020",
     "crumbs": [
       "Home"
     ]
@@ -74,7 +74,7 @@
     "href": "index.html#education",
     "title": "Pinhao (Eric) Xiang",
     "section": "",
-    "text": "University of British Columbia | Vancouver,British Columbia Ph.D Experimental Medicine | May 2021-November 2026\nUniversity of British Columbia | Vancouver,British Columbia Master of Management | June 2020-April 2021\nUniversity of British Columbia | Vancouver,British Columbia B.Sc Biochemistry | Sept 2015-April 2020",
+    "text": "image: profile.jpg\nUniversity of British Columbia | Vancouver,British Columbia Ph.D Experimental Medicine | May 2021-November 2026\nUniversity of British Columbia | Vancouver,British Columbia Master of Management | June 2020-April 2021\nUniversity of British Columbia | Vancouver,British Columbia B.Sc Biochemistry | Sept 2015-April 2020",
     "crumbs": [
       "Home"
     ]
@@ -106,17 +106,17 @@
     "section": "",
     "text": "Here are some useful links I will be referencing in today’s lesson:\n\nhttps://andreaczhang.github.io/qtwAcademic/\nhttps://quarto.org/docs/publishing/github-pages.html\nhttps://quarto.org/docs/gallery/\nhttps://quarto.org/docs/websites/\nhttps://quarto.org/docs/output-formats/html-themes.html\n\nandreaczhang.github.io\nQuarto Website Templates for Academics\nProvides three Quarto website templates as an R project, which are commonly used by academics.\nTemplates for personal websites and course/workshop websites are included, as well as a template with minimal content for customization.",
     "crumbs": [
-      "quarto"
+      "Quarto Resources"
     ]
   },
   {
     "objectID": "casualphoto/index.html",
     "href": "casualphoto/index.html",
-    "title": "casual photo",
+    "title": "Casual Photos",
     "section": "",
-    "text": "[![Elephant](image1.png)](https://en.wikipedia.org/wiki/Elephant)\n\nNot sure why photos don't show \n\nMaybe try incorporating other features",
+    "text": "2024 ATVB Chicago Conference\n\n\n\n2023 Tulip Festival Field Trip",
     "crumbs": [
-      "casual photo"
+      "Casual Photo"
     ]
   }
 ]

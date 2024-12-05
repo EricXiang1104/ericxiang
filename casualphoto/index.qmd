@@ -1,14 +1,13 @@
 ---
-title: "casual photo"
-date: 2023-03-07
-categories: ["Tech for Good"]
-image-placeholder: image2.jpg
+title: "Casual Photos"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
 ---
 
-```         
-[![Elephant](image1.png)](https://en.wikipedia.org/wiki/Elephant)
+![](images/Casual photos-01.jpeg){width="420"}
 
-Not sure why photos don't show, especially when I want to add in the maintext  
+**2024 ATVB Chicago Conference**
 
-Maybe try incorporating other features
-```
+![**2023 Tulip Festival Field Trip** ](image1.jpg){fig-align="left" width="441"}

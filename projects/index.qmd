@@ -9,7 +9,7 @@ My project focuses on understanding how macrophage and smooth muscle cells in bl
 
 To complete the project, I am using *in vitro* cell model to assess the cell-cell interactions.
 
-##  **Project II**
+## **Project II**
 
 I am using cell models to evaluate fasting and non-fasting lipid fractions in promoting fat uptake in cells. The goal of my study is to understand different types of lipids in cardiovascular disease lipid risk prediction.
 

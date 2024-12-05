@@ -28,7 +28,7 @@ Outside the research lab, I am interested in volunteering, hiking and traveling.
 mages/openscapes-flywheel-vpub.png){fig-alt="The Openscapes Flywheel: the orange hexagonal logo with 6 parts of the flywheel: Welcome; Create space and place; invest in learning and trust; work openly; leverage common workflows, skills, tools; inspire" fig-align="center"}
 
 ## Education
-
+image: profile.jpg
 
 University of British Columbia | Vancouver,British Columbia
 Ph.D Experimental Medicine | May 2021-November 2026

@@ -24,12 +24,11 @@ website:
 
       - href: Volunteer.qmd
         text: Volunteer
-     
-      - href: quarto.qmd
-        text: quarto
         
       - href: casualphoto/index.qmd
-        text: casual photo
+        text: Casual Photo
+      - href: quarto.qmd
+        text: Quarto Resources  
        
      
 
