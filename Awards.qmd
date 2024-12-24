@@ -1,4 +1,9 @@
 ---
-title: "Awards"
+title: "Awards and Recognitions"
 editor: visual
+subtitle: "Here is a list of awards I was awarded."
 ---
+
+**2024**
+
+-   **Canadian Institutes of Health Research (CIHR) Doctoral Research** :Awarded to the top Canadian PhD student to support their graduate research.

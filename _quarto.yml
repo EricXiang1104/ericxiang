@@ -24,16 +24,14 @@ website:
 
       - href: Volunteer.qmd
         text: Volunteer
-        
-      - href: casualphoto/index.qmd
-        text: Casual Photo
-      - href: quarto.qmd
-        text: Quarto Resources
       - href: Awards.qmd
         text: Awards
       - href: Work.qmd
         text: Work Experiences
-        
+      - href: casualphoto/index.qmd
+        text: Casual Photo
+      - href: quarto.qmd
+        text: Quarto Resources
         
        
      
