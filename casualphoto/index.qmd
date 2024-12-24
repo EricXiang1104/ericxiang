@@ -6,8 +6,8 @@ about:
   image-shape: rectangle
 ---
 
-![](images/Casual photos-01.jpeg){width="420"}
+![](images/Casual%20photos-01.jpeg){width="420"}
 
 **2024 ATVB Chicago Conference**
 
-![**2023 Tulip Festival Field Trip** ](image1.jpg){fig-align="left" width="441"}
+![**2023 Tulip Festival Field Trip**](image1.jpg){fig-align="left" width="441"}
