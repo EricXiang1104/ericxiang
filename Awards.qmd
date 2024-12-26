@@ -1,9 +1,24 @@
 ---
 title: "Awards and Recognitions"
 editor: visual
-subtitle: "Here is a list of awards I was awarded."
+subtitle: "Here is a list of selcted awards I won ."
 ---
 
 **2024**
 
--   **Canadian Institutes of Health Research (CIHR) Doctoral Research** :Awarded to the top Canadian PhD student to support their graduate research.
+-   **Centre for Heart Lung Innovation Cornelis van Breemen phD** **Award:** Awarded to recognize top PhD in the centre. - 1,00 (Canadian dollar)
+-   **Canadian Institutes of Health Research (CIHR) Doctoral Research**: Awarded to the top Canadian PhD student to support their graduate research.-
+-   **Centre for Heart Lung Innovation Bruce McManus Award:** Awarded to top trainees in the Centre to support trainees' conference activities. - 1,000 (Canadian dollar)
+
+**2023**
+
+-   **Canadian Lipid Vascular Summit Trainee Travel Subsidy Award-**Awarded to to support outstanding trainees to attend the 2023 Canadian Lipid Vascular Summit. - 250 (Canadian dollar)
+-   **UBC Four Year Doctoral Fellowship-**The program intends to provide UBC's best doctoral students with financial support for their postgraduate studies. - 182,000 (Canadian dollar)
+
+**2022**
+
+-   **Mary Adele Norman Postgraduate Award in Medical Research** Awarded based on academic achievement.-4,230(Canadian dollar)
+-   **China-Canada Symposium in Atherosclerosis and Cardiovascular Diseases** **Excellent Poster Presentation Award**-Awarded to top poster presenters at the conference
+-   **Centre for Heart Lung Innovation Bob Schellenberg The Rookies of the Year:** Awarded to recognize top Msc student in the centre. - 1,00 (Canadian dollar)
+-   **Centre for Heart Lung Innovation Bruce McManus Award:** Awarded to top trainees in the Centre to support trainees' conference activities. - 423 (Canadian dollar)
+-   **Frederick Banting and Charles Best Canada Graduate Scholarship-Master’s (CGS-M)**-Awarded to students who demonstrate high achievements in undergraduate and early graduate studies.-17,500(Canadian dollar)
