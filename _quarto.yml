@@ -26,8 +26,8 @@ website:
         text: Volunteer
       - href: Awards.qmd
         text: Awards
-      - href: Work.qmd
-        text: Work Experiences
+      - href: Mentorship Experiences.qmd
+        text: Mentorship Experiences
       - href: casualphoto/index.qmd
         text: Casual Photo
       - href: quarto.qmd
